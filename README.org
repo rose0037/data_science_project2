@@ -3,10 +3,10 @@
   - Class time: 04:00 PM - 05:50 PM  |Engineering & Computer Science | Room 300
   - Instructor: /Pooran Singh Negi, pooran.negi@gmail.com/
   - Office: 470
-  - Office Hours: T, Th,  10.30 a.m. - 12.30 p.m. Email for 1-on-1 help.
+  - Office Hours: M, Wed,  2.00 p.m. - 4.00 p.m. Email for 1-on-1 help.
    
 ** Books 
-   - [[https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/ref=sr_1_2?s=books&ie=UTF8&qid=1522206082&sr=1-2&keywords=pandas][Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edition]]  it is available online from [[https://du-primo.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,Python%2520for%2520Data%2520Analysis:%2520Data%2520Wrangling%2520with%2520Pandas%2520%2520NumPy%2520%2520and%2520IPython%25202nd%2520Edition&search_scope=everything_scope&sortby=rank&vid=01UODE_MAIN&lang=en_US&mode=Basic][library]]
+   - [[https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/ref=sr_1_2?s=books&ie=UTF8&qid=1522206082&sr=1-2&keywords=pandas][Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edition]]  it is available online from [[https://library.du.edu/][library]]
 *** other books     
    - [[http://greenteapress.com/thinkstats2/html/index.html][Think Stats: Exploratory Data Analysis in Python]]
    -[[http://greenteapress.com/wp/think-bayes/][ Think Bayes]]  
@@ -23,7 +23,7 @@ on best software engineering practices and reproducible research.
 - Students have to present 10 minutes progress every week on Thursday in class as per assigned/agreed work in the project.
 
 - Go over Python  for data science topics in each class for 30-60 minutes. Student will choose a topics in data science and present it with the help of python notebook to fellow students.
-See below for some tentative  topics.
+*See below for some tentative  topics.*
 
 
 - Answer/help students on their project
@@ -32,18 +32,18 @@ See below for some tentative  topics.
 
 *** Topics
 
-|---------+------------------------------------------------------------------------|
-| student | topics                                                                 |
-|         |                                                                        |
-|---------+------------------------------------------------------------------------|
-|         | Pandas topics from  Wes McKinney books. May be starting from chapter 4 |
-|---------+------------------------------------------------------------------------|
-|         | Python library for visualization *Bokesh, matlpoltlib*                 |
-|---------+------------------------------------------------------------------------|
-|         | Python libray sklearn for machine learning                             |
-|---------+------------------------------------------------------------------------|
-|         |                                                                        |
-|         |                                                                        |
+|---------+------------------------------------------------------------------------+------|
+| student | topics                                                                 | Date |
+|         |                                                                        |      |
+|---------+------------------------------------------------------------------------+------|
+|         | Pandas topics from  Wes McKinney books. May be starting from chapter 4 |      |
+|---------+------------------------------------------------------------------------+------|
+|         | Python library for visualization *Bokesh, matplotlib*                  |      |
+|---------+------------------------------------------------------------------------+------|
+|         | Python libray *sklearn* for machine learning                           |      |
+|---------+------------------------------------------------------------------------+------|
+|         |                                                                        |      |
+|         |                                                                        |      |
 
 
 
@@ -117,13 +117,13 @@ I will go over basic of python and jupyter notebook.
 |       Date | Reading/Coding Assignments                | class activity                                                                                   |
 |------------+-------------------------------------------+--------------------------------------------------------------------------------------------------|
 | 03-27-2018 | Finish excercise from                     | Went over jupyter notebook                                                                       |
-|            |                                           | Please install required python software as mentionde in Python section.                          |
-|            | https://github.com/QCaudron/pydata_pandas | use *jupyter notebook* from the folder where your notebook  resides to start working on notebook |
+|            |                                           | Please install required python software as mentioned in software  python section.                |
+|            | https://github.com/QCaudron/pydata_pandas | Run *jupyter notebook* from the folder where your notebook  resides to start working on notebook |
 |            |                                           | *ctr-enter* to run the cell without creating new cell                                            |
 |            |                                           | *ctr- alt* to run the cell and create new cell                                                   |
 |            |                                           | change cell type for markdown to write markdown text. Write math in  $ $ symbol                  |
 |            |                                           | *ctr-s* to save content of notebook                                                              |
 |            |                                           | to close the notebook just close the browser tab. to close the server press *ctr-c*              |
-|            |                                           |                                                                                                  |
+|            |                                           |Please remember handy command line commands *cd, ls, pwd, cp, mv,  mkdir*                        |
 |------------+-------------------------------------------+--------------------------------------------------------------------------------------------------|
 |            |                                           |                                                                                                  |
