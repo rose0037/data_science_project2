@@ -6,7 +6,7 @@
   - Office Hours: M, Wed,  2.00 p.m. - 4.00 p.m. Email for 1-on-1 help.
    
 ** Books 
-   - [[https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/ref=sr_1_2?s=books&ie=UTF8&qid=1522206082&sr=1-2&keywords=pandas][Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edition]]  it is available online from [[https://library.du.edu/][library]]
+   - [[https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/ref=sr_1_2?s=books&ie=UTF8&qid=1522206082&sr=1-2&keywords=pandas][Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edition]]  by Wes McKinney. It is available online from [[https://library.du.edu/][library]]
 *** other books     
    - [[http://greenteapress.com/thinkstats2/html/index.html][Think Stats: Exploratory Data Analysis in Python]]
    -[[http://greenteapress.com/wp/think-bayes/][ Think Bayes]]  
@@ -75,7 +75,7 @@ Please respect DU [[https://www.du.edu/studentlife/studentconduct/honorcode.html
   If you are not continuing your current project, *Select the one by March 29th  as per your preference and let us know.*
 
   You can choose your own dataset.
-   - Some places to look for data is [[https://www.kaggle.com/][kaggle]] 
+   - Some places to look for data is [[https://www.kaggle.com/][kaggle]] . Please choose open competition.
      + one interesting dataset [[https://www.kaggle.com/broach/button-tone-sz][EEG data from basic sensory task in Schizophrenia]] 
    - [[https://www.data.gov/][U.S. Government’s open data]] 
    - more to come ...
