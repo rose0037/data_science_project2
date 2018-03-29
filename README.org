@@ -128,6 +128,6 @@ I will go over basic of python and jupyter notebook.
 |            |                                           | to close the notebook just close the browser tab. to close the server press *ctr-c*              |
 |            |                                           | Please remember handy command line commands *cd, ls, pwd, cp, mv,  mkdir*                        |
 |------------+-------------------------------------------+--------------------------------------------------------------------------------------------------|
-| 03-29-2018 | [[./lectures/numpy_basics.ipynb][numpy notebook]]                            |                                                                                                  |
+| 03-29-2018 | [[./notebooks/numpy_basics.ipynb][numpy notebook]]                            |                                                                                                  |
 |------------+-------------------------------------------+--------------------------------------------------------------------------------------------------|
 |            |                                           |                                                                                                  |
