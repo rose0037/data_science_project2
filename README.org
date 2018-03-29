@@ -126,6 +126,8 @@ I will go over basic of python and jupyter notebook.
 |            |                                           | change cell type for markdown to write markdown text. Write math in  $ $ symbol                  |
 |            |                                           | *ctr-s* to save content of notebook                                                              |
 |            |                                           | to close the notebook just close the browser tab. to close the server press *ctr-c*              |
-|            |                                           |Please remember handy command line commands *cd, ls, pwd, cp, mv,  mkdir*                        |
+|            |                                           | Please remember handy command line commands *cd, ls, pwd, cp, mv,  mkdir*                        |
+|------------+-------------------------------------------+--------------------------------------------------------------------------------------------------|
+| 03-29-2018 | [[./lectures/numpy_basics.ipynb][numpy notebook]]                            |                                                                                                  |
 |------------+-------------------------------------------+--------------------------------------------------------------------------------------------------|
 |            |                                           |                                                                                                  |
