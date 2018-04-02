@@ -1,6 +1,6 @@
 * Data Science Project
   - Course: Data Science Project 2-COMP-4448-2
-  - Class time: 04:00 PM - 05:50 PM  |Engineering & Computer Science | Room 300
+  - Class time: 04:00 PM  05:50 PM  |Engineering & Computer Science | Room 300
   - Instructor: /Pooran Singh Negi, pooran.negi@gmail.com/
   - Office: 470
   - Office Hours: M, Wed,  2.00 p.m. - 4.00 p.m. Email for 1-on-1 help.
